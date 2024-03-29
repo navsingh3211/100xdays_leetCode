@@ -140,4 +140,3 @@
 // }
 // console.log(`is armStr number? : ${checkArmStrong(1634)}`);
 
-/*13.) Factorial of a number*/
