@@ -102,5 +102,3 @@
 // console.log(isAutomorphic(5),'isAutomorphic');
 
 
-/*19.) Harshad number*/
-
